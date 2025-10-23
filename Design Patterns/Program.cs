@@ -35,6 +35,5 @@ internal class Program
         var s2 = Singleton.Instance;
         Console.WriteLine($"Same instance: {ReferenceEquals(s1, s2)}");
         Console.WriteLine($"s1 hash: {s1.GetHashCode()}, s2 hash: {s2.GetHashCode()}");
-        Console.ReadKey();
     }
 }
