@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{92EDC8B8-B212-4D53-90C7-468B45922123}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{0736EB84-24E5-4B67-BABB-D38AD851B43C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{92EDC8B8-B212-4D53-90C7-468B45922123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92EDC8B8-B212-4D53-90C7-468B45922123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92EDC8B8-B212-4D53-90C7-468B45922123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
