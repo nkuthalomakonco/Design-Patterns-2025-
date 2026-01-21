@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{0736EB84-24E5-4B67-BABB-D38AD851B43C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{4BF2719B-48FA-44E3-8387-91FCF3BD6F15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0736EB84-24E5-4B67-BABB-D38AD851B43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF2719B-48FA-44E3-8387-91FCF3BD6F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF2719B-48FA-44E3-8387-91FCF3BD6F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF2719B-48FA-44E3-8387-91FCF3BD6F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF2719B-48FA-44E3-8387-91FCF3BD6F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
